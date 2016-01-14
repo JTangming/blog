@@ -1,3 +1,2 @@
 # tm
-
-My repository on GitHub.
+- My repository on GitHub.
