@@ -9,4 +9,4 @@
 
 # React Native 实践与总结
 
-
+- [React Native 组件的生命周期](https://github.com/JTangming/tm/issues/6)
