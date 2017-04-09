@@ -5,7 +5,7 @@
 
 ### 文章翻译
 
--[Angular 2之变化检测](https://github.com/JTangming/tm/issues/3)
+- [Angular 2之变化检测](https://github.com/JTangming/tm/issues/3)
 
 # React Native 实践与总结
 
