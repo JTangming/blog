@@ -1,6 +1,6 @@
 # Angular 相关
 
-- [Angular Universal相关整理](https://github.com/JTangming/tm/issues/9)
+- [Angular Universal 相关整理](https://github.com/JTangming/tm/issues/9)
 - [理解 react-redux 之 connect](https://github.com/JTangming/tm/issues/8)
 - [深入理解 Zones](https://github.com/JTangming/tm/issues/5)
 - [深入理解Angular2变化监测和ngZone](https://github.com/JTangming/tm/issues/4)
