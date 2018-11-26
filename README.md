@@ -12,3 +12,7 @@
 
 - [理解 react-redux 之 connect](https://github.com/JTangming/tm/issues/8)
 - [React Native 组件的生命周期](https://github.com/JTangming/tm/issues/6)
+
+# 其他
+
+- [weekly reading](https://github.com/JTangming/tm/issues/10)
