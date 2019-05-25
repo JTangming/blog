@@ -10,6 +10,7 @@
 
 ### React & RN
 
+- [关于 React setState，你了解多少？](https://github.com/JTangming/tm/issues/11)
 - [理解 react-redux 之 connect](https://github.com/JTangming/tm/issues/8)
 - [React Native 组件的生命周期](https://github.com/JTangming/tm/issues/6)
 
