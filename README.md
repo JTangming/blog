@@ -1,4 +1,4 @@
-## 个人博客记录，大致的主题范围如下（但不局限于这些范围）：
+## 大致的主题范围如下（但不局限于这些范围）：
 
 ### React & RN
 
@@ -42,7 +42,7 @@
 
 ### 英文文章翻译
 
--[A Recap of Frontend Development in 2019](https://github.com/JTangming/blog/issues/42)
+- [A Recap of Frontend Development in 2019](https://github.com/JTangming/blog/issues/42)
 
 ### RxJs
 
