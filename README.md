@@ -30,6 +30,10 @@
 - [webpack 相关](https://github.com/JTangming/blog/issues/24)
 - [前端工程化相关](https://github.com/JTangming/blog/issues/28)
 
+### CSS
+
+- [css 加载会造成哪些阻塞](https://github.com/JTangming/blog/issues/34)
+
 ### Angular 相关
 
 - [Angular Universal 相关整理](https://github.com/JTangming/tm/issues/9)
