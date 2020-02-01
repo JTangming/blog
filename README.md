@@ -16,6 +16,7 @@
 - [JavaScript 中的私有变量](https://github.com/JTangming/blog/issues/14)
 - [Javascript 之数据劫持](https://github.com/JTangming/blog/issues/15)
 - [原型、原型链以及几种继承方式](https://github.com/JTangming/blog/issues/22)
+- [实现 new 操作符](https://github.com/JTangming/blog/issues/35)
 
 ### 计算机网络
 
