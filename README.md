@@ -2,7 +2,7 @@
 
 ### React & RN
 
-- [React Fiber](https://github.com/JTangming/blog/issues/16)
+- [浅入 React Fiber 及相关资料整理](https://github.com/JTangming/blog/issues/16)
 - [React v-Dom & diff 算法](https://github.com/JTangming/blog/issues/17)
 - [Rudex 和 mobx 相关总结](https://github.com/JTangming/blog/issues/18)
 - [react hooks 基础整理与进阶](https://github.com/JTangming/blog/issues/19)
