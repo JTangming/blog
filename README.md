@@ -35,6 +35,8 @@
 ### 浏览器 & CSS
 
 - [浏览器渲染及性能优化](https://github.com/JTangming/blog/issues/34)
+- [深入理解现代浏览器架构(part 1)](https://github.com/JTangming/blog/issues/46)
+- [深入理解现代浏览器架构(part 2)](https://github.com/JTangming/blog/issues/47)
 
 ### Angular 相关
 
