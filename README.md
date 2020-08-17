@@ -2,8 +2,8 @@
 
 ### React & RN
 
-- [React 17 RC 版发布：无新特性](https://github.com/JTangming/blog/issues/16)
-- [React Native's re-architecture in 2020](https://github.com/JTangming/blog/issues/16)
+- [React 17 RC 版发布：无新特性](./src/React/react-v17/React%2017%20RC%20版发布：无新特性.md)
+- [React Native's re-architecture in 2020](./src/React/RN/React%20Native's%20re-architecture%20in%202020.md)
 - [浅入 React Fiber 及相关资料整理](https://github.com/JTangming/blog/issues/16)
 - [React v-Dom & diff 算法](https://github.com/JTangming/blog/issues/17)
 - [Rudex 和 mobx 相关总结](https://github.com/JTangming/blog/issues/18)
