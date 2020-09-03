@@ -2,8 +2,7 @@
 
 ### React & RN
 
-- [React 17 RC 版发布：无新特性](./src/React/react-v17/React%2017%20RC%20版发布：无新特性.md)
-- [React Native's re-architecture in 2020](./src/React/RN/React%20Native's%20re-architecture%20in%202020.md)
+- [理解Component&Element&Instance](./src/React/react/理解Component&Element&Instance.md)
 - [浅入 React Fiber 及相关资料整理](https://github.com/JTangming/blog/issues/16)
 - [React v-Dom & diff 算法](https://github.com/JTangming/blog/issues/17)
 - [Rudex 和 mobx 相关总结](https://github.com/JTangming/blog/issues/18)
@@ -11,6 +10,11 @@
 - [关于 React setState，你了解多少？](https://github.com/JTangming/tm/issues/11)
 - [理解 react-redux 之 connect](https://github.com/JTangming/tm/issues/8)
 - [React Native 组件的生命周期](https://github.com/JTangming/tm/issues/6)
+
+### react-v17/RN-re-architecture
+
+- [React 17 RC 版发布：无新特性](./src/React/react-v17/React%2017%20RC%20版发布：无新特性.md)
+- [React Native's re-architecture in 2020](./src/React/RN/React%20Native's%20re-architecture%20in%202020.md)
 
 ### JavaScript
 
