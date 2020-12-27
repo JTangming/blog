@@ -1,0 +1,1 @@
+react-native-web 帮你把 React Native 的组件作了一个 Web 端的实现，并提供相关打包工具，能够直接打包出一份能够跑在 Web 端的代码。

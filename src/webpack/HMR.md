@@ -1,0 +1,3 @@
+webpack-dev-middleware和webpack-dev-server的区别
+
+其实就是因为webpack-dev-server只负责启动服务和前置准备工作，所有文件相关的操作都抽离到webpack-dev-middleware库了，主要是本地文件的编译和输出以及监听，无非就是职责的划分更清晰了。

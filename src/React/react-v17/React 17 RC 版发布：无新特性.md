@@ -120,3 +120,10 @@ In React 17, the component stacks are generated using a different mechanism that
 In React 17, these private exports have been removed. As far as we’re aware, React Native for Web was the only project using them, and they have already completed a migration to a different approach that doesn’t depend on those private exports.
 
 #### 总结
+
+React 17 RC 发布，一个没有新特性的大版本更新：
+- 提供多版本 React 共存的能力，为此改变了 React 原有的事件代理实现，从在 document 代理事件冒泡改为了在 rootNode 代理，避免多个 React 版本都监听
+- document 导致 e.stopPropagation() 失效的局面。可以说正是为了这个能力，React 进行了本次大版本更新，来确保用户在之后的大版本变化中有渐进式升级项目的余地微调
+- onScroll、onFocus、onBlur的行为，使其与浏览器原生事件的表现更接近不再使用复用事件对象的优化，使其表现更为正常useEffect 的清空操作改为异步，将在屏幕渲染完成后调用。如果特别需要在 unmount 之前的调用，需改用 useLayoutEffect
+- 在生产环境抛出异常时，提供原生的组件栈，方便定位问题所在
+- 删除了一些私有的导出
